@@ -1,0 +1,21 @@
+img{
+    width: 100vh;
+    height:100vh;
+    border: 20px;
+    border-color: azure;
+
+}
+.cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 20px black;
+
+}
+*{
+    background-color: rgb(196, 221, 233);
+}
+.imagewrap{
+    position: relative;
+}
+
